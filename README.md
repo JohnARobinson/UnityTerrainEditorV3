@@ -11,7 +11,7 @@ Current version using individual mesh system
 Current helpful resources<br>
 https://catlikecoding.com/unity/tutorials/hex-map/<br>
 https://www.youtube.com/watch?v=bpB4BApnKhM&list=PLbghT7MmckI4qGA0Wm_TZS8LVrqS47I9R&ab_channel=quill18creates<br>
-https://discussions.unity.com/t/best-way-to-make-terrain-for-a-strategy-rts-game/861349
-https://blog.paavo.me/gpu-tilemap-rendering/
+https://discussions.unity.com/t/best-way-to-make-terrain-for-a-strategy-rts-game/861349<br>
+https://blog.paavo.me/gpu-tilemap-rendering/<br>
 
 
