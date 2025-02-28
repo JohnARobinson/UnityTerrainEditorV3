@@ -7,7 +7,8 @@ Difficulties choosing between large mesh with submeshes or indivdual meshes for 
 individual mesh system works better. Along with a fresh code base.
 
 
-Current version using individual mesh system
+Current version using individual mesh system<br>
+
 Current helpful resources<br>
 https://catlikecoding.com/unity/tutorials/hex-map/<br>
 https://www.youtube.com/watch?v=bpB4BApnKhM&list=PLbghT7MmckI4qGA0Wm_TZS8LVrqS47I9R&ab_channel=quill18creates<br>
@@ -23,5 +24,7 @@ https://www.zarkonnen.com/grids_in_games<br>
 https://www.youtube.com/watch?v=zIRTOgfsjl0&ab_channel=DVGen<br>
 https://www.youtube.com/watch?v=ulFc6p3hQzQ&ab_channel=VectorBread<br>
 
+<br>
+Initial Mesh
 ![image info](V3Example1.png)
 
