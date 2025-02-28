@@ -24,7 +24,7 @@ https://www.zarkonnen.com/grids_in_games<br>
 https://www.youtube.com/watch?v=zIRTOgfsjl0&ab_channel=DVGen<br>
 https://www.youtube.com/watch?v=ulFc6p3hQzQ&ab_channel=VectorBread<br>
 
-<br>
-Initial Mesh
+
+Initial Mesh<br>
 ![image info](V3Example1.png)
 
